@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+db.db
+config.py
+sql.py
+.idea/.gitignore
+.idea/db.db
+.idea/dbnavigator.xml
+.idea/inspectionProfiles/
+.idea/jestkii_parse.iml
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/
+
+dump/
+
